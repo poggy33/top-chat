@@ -12,6 +12,7 @@ export function ModeToggle() {
   return (
     <div>
       <Button
+        className="bg-transparent border-0"
         variant="outline"
         size="icon"
         onClick={() =>
